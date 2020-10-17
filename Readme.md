@@ -1,6 +1,6 @@
 # x509 Creator
 
-Need x509 certificates to create for testing mutual tls?
+Need to create x509 certificates for testing mutual tls?
 
 Cant be bothered copy pasting openssl commands?
 
